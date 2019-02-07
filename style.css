@@ -4,6 +4,7 @@
   background:red;
   }
   
- body(
-  background:green;
+
+h1{
+  border-color:green;
 }
