@@ -10,5 +10,5 @@ h1{
   border-color:green;
 }
 .box:hover {
-  background-color:green;
+  background-image:url("https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
 }
