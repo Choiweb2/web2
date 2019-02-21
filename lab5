@@ -1,1 +1,23 @@
+<!doctype html>
+<html>
+<head>
+  <title>form </title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <p>
+      <form action="/action_page.php">
+  First name:</p>
+  <p><input type="text" name="firstname" value="Mickey"></p>
+ 
+  <p>Last name:</p>
+  <input type="text" name="lastname" value="Mouse">
+  <br><br>
+  <input type="button" value="Button">
+</form> 
 
+
+
+</body>
+</html>
